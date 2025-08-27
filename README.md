@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Hasan Zaidi
 
-💻 **Lead iOS Engineer**
+💻 **iOS Developer**
 I build and scale iOS apps with **Swift, SwiftUI, UIKit, Combine, Core Data, and modern concurrency**. My repos are focused on **clean architecture, developer tooling, and real-world iOS patterns**.
 
 ---
