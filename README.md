@@ -66,11 +66,9 @@ func loadFlights() async throws -> [Flight] {
 
 ## 📊 GitHub Stats
 
-![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasanZaidi\&show_icons=true\&theme=tokyonight)
+![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanzaidi-lab\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanZaidi\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HasanZaidi\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanzaidi-lab\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -84,7 +82,3 @@ func loadFlights() async throws -> [Flight] {
 ✨ *If you’re into iOS, SwiftUI, or mobile infrastructure — you’ll probably find something useful in my repos.*
 
 ---
-
-👉 You’ll just need to replace `HasanZaidi` with your actual **GitHub username** in the badge links above.
-
-Do you also want me to add **badges for tools/skills** (like Swift, SwiftUI, iOS, Fastlane) at the top in a nice row? That gives it more of a **developer CV feel**.
