@@ -67,7 +67,7 @@ func loadFlights() async throws -> [Flight] {
 
 ## 📊 GitHub Stats
 
-![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanzaidi-lab\&show_icons=true\&theme=tokyonight)
+![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanzaidi1\&show_icons=true\&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanzaidi-lab\&layout=compact\&theme=tokyonight)
 
